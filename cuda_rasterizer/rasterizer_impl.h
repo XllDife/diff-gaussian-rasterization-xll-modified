@@ -10,7 +10,8 @@
  */
 
 #pragma once
-
+#include <cstdint>
+#include <cstddef>
 #include <iostream>
 #include <vector>
 #include "rasterizer.h"
